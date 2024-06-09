@@ -1,0 +1,91 @@
+body{
+    font-family: "Inter",sans-serif;
+    background: #23252C;
+    margin: 0;
+    padding: 10px;       
+}
+
+#root{
+    margin-left: auto;
+    margin-right: auto;
+    background: #1A1B21;
+    width: 317px;
+    
+}
+
+.container{
+    text-align: center;
+}
+
+.card-img{
+    width: 317px;
+    height: 317px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+.title{
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+.job{
+    color: #F3BF99;
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+
+.web-site{
+    color: rgba(187, 185, 185, 0.658);
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.btn{
+    width: 120px;
+    height: 40px;
+}
+
+.btn-linkedin{
+    background: #5093E2;
+    margin-left: 5px;
+    color: #FFFFFF;
+    font-weight: 500;   
+}
+
+.btn-email{
+    font-weight: 500;
+}
+
+.about{
+    margin:20px 34px;
+    color: whitesmoke;
+}
+
+.about h3{
+    margin-bottom: 0;
+}
+
+.about p{
+    margin-top: 0;
+    font-size: 14px;
+    color: rgba(202, 200, 200, 0.623);
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    background: #161619;
+
+}
+
+.icons{
+    background-color: rgb(170, 166, 166);
+    padding: 5px;
+    border-radius: 3px;
+}
+
+
+
+
