@@ -11,7 +11,7 @@ export default function Info(){
             <p className="job">Frontend developer</p>
             <p className="web-site">www.sayedrahimrahimi.com</p>
             <div className="contact-btn">
-                <button className="btn btn-email"><i class="fa-solid fa-envelope"></i> Eamil</button>
+                <button className="btn btn-email"><i class="fa-solid fa-envelope"></i> Email</button>
                 <button className="btn btn-linkedin"><i class="fa-brands fa-linkedin-in" id="linkdedin"></i> Linkedin</button>
             </div>
 
