@@ -44,17 +44,23 @@ body{
 .btn{
     width: 120px;
     height: 40px;
+    padding: 10px 15px;
+    border-radius: 5px;
 }
 
 .btn-linkedin{
     background: #5093E2;
-    margin-left: 5px;
+    margin-left: 10px;
     color: #FFFFFF;
     font-weight: 500;   
+    
 }
 
 .btn-email{
     font-weight: 500;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px 25px;
 }
 
 .about{
@@ -87,6 +93,23 @@ body{
     font-size: 20px;
 }
 
+.btn-linkedin:hover{
+    background-color:#3067a7;
+}
 
+.btn-email:hover{
+    background-color: rgb(190, 187, 187);
+    color: #080808;
+}
+
+.footer-media{
+    color: black;
+    font-size: 20px;
+}
+
+.footer-media:hover{
+    background-color: rgb(255, 255, 255);
+    color: #23252C;
+}
 
 

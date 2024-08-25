@@ -11,8 +11,8 @@ export default function Info(){
             <p className="job">Frontend developer</p>
             <p className="web-site">www.sayedrahimrahimi.com</p>
             <div className="contact-btn">
-                <button className="btn btn-email"><i class="fa-solid fa-envelope"></i> Email</button>
-                <button className="btn btn-linkedin"><i class="fa-brands fa-linkedin-in" id="linkdedin"></i> Linkedin</button>
+                <a href="mailto:sayedrahimrahimi2003@gmail.com" className="btn btn-email"><i class="fa-solid fa-envelope"></i> Email</a>
+                <a href="https://www.linkedin.com/in/sayed-rahim-rahimi-8b246a28a" className="btn btn-linkedin" style={{color:'white'}}><i class="fa-brands fa-linkedin-in" id="linkdedin" style={{marginRight:'5px'}}></i>Linkedin</a> 
             </div>
 
         </div>
